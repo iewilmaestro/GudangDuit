@@ -1,2 +1,2 @@
-#earnusdt:on|1.1|https:
+#earnusdt:on|1.0|https:
 #
