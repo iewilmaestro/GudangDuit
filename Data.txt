@@ -1,2 +1,3 @@
 #earnusdt:on|1.0|https:
+#purebtc:on|1.0
 #
