@@ -1,3 +1,4 @@
+#claimsolana:on|1.0|https:
 #earnusdt:on|1.0|https:
 #purebtc:on|1.0
 #trxsatoshi:on|1.0|https:
