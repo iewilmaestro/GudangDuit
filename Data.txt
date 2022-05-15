@@ -3,4 +3,5 @@
 #purebtc:on|1.0
 #trxsatoshi:on|1.0|https:
 #bitefaucet:on|1.0|https:
+#bithub:on|1.0|https:
 #
