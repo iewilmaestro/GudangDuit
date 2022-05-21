@@ -2,6 +2,6 @@
 #earnusdt:on|1.0|https:
 #purebtc:on|1.0|https:
 #trxsatoshi:on|1.0|https:
-#bitefaucet:on|1.0|https:
+#bitefaucet:on|1.1|https:https://stfly.me/uyuHTedR0
 #bithub:on|1.0|https:
 #
