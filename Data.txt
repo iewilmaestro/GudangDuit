@@ -5,6 +5,7 @@
 #claimsolana:on|1.0|https:
 #earnusdt:on|1.0|https:
 #purebtc:on|1.0|https:
+#tokenmix:on|1.0|https:
 #trxsatoshi:on|1.0|https:
 #viefaucet:on|1.0|https:
 #
