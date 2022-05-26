@@ -6,5 +6,5 @@
 #earnusdt:on|1.0|https:
 #purebtc:on|1.0|https:
 #trxsatoshi:on|1.0|https:
-#viefaucet:on|1.1|https:
+#viefaucet:on|1.0|https:
 #
