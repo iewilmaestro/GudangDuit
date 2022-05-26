@@ -1,7 +1,7 @@
 #bestautofaucet:on|1.5|https:
 #bitefaucet:on|1.1|https://stfly.me/uyuHTedR0
 #bithub:on|1.1|https://cararegistrasi.com/62m6b
-#coinfly:on|1.0|https:
+#coinfly:on|1.1|https://cararegistrasi.com/J5qHepfxvR7
 #claimsolana:on|1.0|https:
 #earnusdt:on|1.0|https:
 #purebtc:on|1.0|https:
