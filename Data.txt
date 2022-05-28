@@ -5,6 +5,7 @@
 #coinfly:on|1.1|https://cararegistrasi.com/J5qHepfxvR7
 #claimsolana:on|1.0|https:
 #earnusdt:on|1.0|https:
+#firefaucet:on|1.2|https:
 #purebtc:on|1.0|https:
 #tokenmix:on|1.0|https:
 #trxsatoshi:on|1.0|https:
