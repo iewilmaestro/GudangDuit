@@ -2,7 +2,7 @@
 #bestautofaucet:on|1.5|https:
 #bitefaucet:on|1.2|https://cararegistrasi.com/jjlCn6v8
 #bithub:on|1.1|https://cararegistrasi.com/62m6b
-#coinfly:on|1.1|https://cararegistrasi.com/J5qHepfxvR7
+#coinfly:on|1.2|https://cararegistrasi.com/irc5s
 #claimsolana:on|1.0|https:
 #earnusdt:on|1.0|https:
 #firefaucet:on|1.2|https:
