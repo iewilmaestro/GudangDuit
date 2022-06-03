@@ -4,6 +4,7 @@
 #bithub:on|1.1|https://cararegistrasi.com/62m6b
 #coinfly:on|1.3|https://cararegistrasi.com/nWvVM17LL
 #claimsolana:on|1.0|https:
+#earnmoneyhub:on|1.0|https:
 #earnusdt:on|1.0|https:
 #firefaucet:on|1.2|https:
 #histar:on|1.0|https:
