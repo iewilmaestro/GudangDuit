@@ -6,7 +6,7 @@
 #claimsolana:on|1.0|https:
 #earnusdt:on|1.0|https:
 #firefaucet:on|1.2|https:
-#freecoin:on|1.1|https:https://cararegistrasi.com/FGkyEwH6y
+#freecoin:on|1.1|https://cararegistrasi.com/FGkyEwH6y
 #kiddyearner:on|1.1|https:
 #purebtc:on|1.0|https:
 #tokenmix:on|1.0|https:
