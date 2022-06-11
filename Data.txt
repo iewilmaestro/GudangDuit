@@ -1,4 +1,5 @@
 #autofaucet:on|1.2|https:
+#adsfamily:on|1.0|https:
 #bestautofaucet:on|1.5|https:
 #bitefaucet:on|1.2|https://cararegistrasi.com/jjlCn6v8
 #bithub:on|1.1|https://cararegistrasi.com/62m6b
