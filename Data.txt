@@ -11,6 +11,7 @@
 #freecoin:on|1.1|https://www.mediafire.com/file/ztpq265iyb5xro3/freecoin.zip/file
 #kiddyearner:on|1.1|https:
 #purebtc:on|1.0|https:
+#speedcoins:on|1.0|https:
 #tokenmix:on|1.0|https:
 #trxsatoshi:on|1.0|https:
 #
