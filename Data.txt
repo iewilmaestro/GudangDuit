@@ -1,5 +1,6 @@
 #1xbitcoins:on|1.0|https:
 #autofaucet:on|1.2|https:
+#adbch:on|1.0|https:
 #adsfamily:on|1.0|https:
 #bestautofaucet:on|1.5|https:
 #bitefaucet:on|1.2|https://cararegistrasi.com/jjlCn6v8
