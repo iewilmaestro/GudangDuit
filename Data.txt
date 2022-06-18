@@ -15,6 +15,7 @@
 #freedgb:on|1.0|https:
 #kiddyearner:on|1.1|https:
 #purebtc:on|1.0|https:
+#rvnmining:on|1.0|https:
 #speedcoins:on|1.0|https:
 #tokenmix:on|1.0|https:
 #trxsatoshi:on|1.0|https:
