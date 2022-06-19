@@ -8,6 +8,7 @@
 #celomining:on|1.1|https://www.mediafire.com/file/o0bd2j44glh3zwd/celomining.zip/file
 #coinfly:on|1.3|https://cararegistrasi.com/nWvVM17LL
 #claimsolana:on|1.0|https:
+#defidoge:on|1.0|https:
 #digibytemining:on|1.0|https:
 #earnusdt:on|1.0|https:
 #firefaucet:on|1.2|https:
