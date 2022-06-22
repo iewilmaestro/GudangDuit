@@ -1,4 +1,5 @@
 #1xbitcoins:on|1.0|https:
+#autoclaim:on|1.0|https:
 #autofaucet:on|1.2|https:
 #adbch:on|1.0|https:
 #adsfamily:on|1.0|https:
