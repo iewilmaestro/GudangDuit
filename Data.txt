@@ -15,6 +15,7 @@
 #purebtc:on|1.0|https:
 #speedcoins:on|1.0|https:
 #tokenmix:on|1.0|https:
+#watcherviews:on|1.0|https:
 #trxsatoshi:on|1.0|https:
 #
 #celomining:off|1.1|https://www.mediafire.com/file/o0bd2j44glh3zwd/celomining.zip/file
