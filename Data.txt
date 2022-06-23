@@ -12,6 +12,7 @@
 #firefaucet:on|1.2|https:
 #freecoin:on|1.1|https://www.mediafire.com/file/ztpq265iyb5xro3/freecoin.zip/file
 #freedgb:on|1.0|https:
+#grandcrypto:on|1.0|https:
 #kiddyearner:on|1.1|https:
 #litemine:on|1.0|https:
 #purebtc:on|1.0|https:
