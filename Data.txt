@@ -18,7 +18,7 @@
 #kiddyearner:on|1.1|https:
 #lemeclaim:on|1.0|https:
 #litemine:on|1.0|https:
-#luckytron:on|1.0|https:
+#ltcearn:on|1.0|https:
 #purebtc:on|1.0|https:
 #speedcoins:on|1.0|https:
 #tokenmix:on|1.0|https:
@@ -28,5 +28,6 @@
 #celomining:off|1.1|https://www.mediafire.com/file/o0bd2j44glh3zwd/celomining.zip/file
 #digibytemining:off|1.0|https:
 #defidoge:off|1.0|https:
+#luckytron:off|1.0|https:
 #rvnmining:off|1.0|https:
 #
