@@ -11,6 +11,7 @@
 #claimsolana:on|1.0|https:
 #cryptofy:on|1.0|https:
 #earnusdt:on|1.0|https:
+#faucetpay:on|1.0|https:
 #firefaucet:on|1.2|https:
 #freecoin:on|1.1|https://www.mediafire.com/file/ztpq265iyb5xro3/freecoin.zip/file
 #freedgb:on|1.0|https:
