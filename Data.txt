@@ -25,11 +25,12 @@
 #tokenmix:on|1.0|https:
 #watcherviews:on|1.1|https://www.mediafire.com/file/69u1o1jcx6sh8gi/watchviews.zip/file
 #trxsatoshi:on|1.0|https:
-#ziifaucet:on|1.0|https:
+#
 #
 #celomining:off|1.1|https://www.mediafire.com/file/o0bd2j44glh3zwd/celomining.zip/file
 #digibytemining:off|1.0|https:
 #defidoge:off|1.0|https:
-#luckytron:on|1.0|https:
+#luckytron:off|1.0|https:
 #rvnmining:off|1.0|https:
+#ziifaucet:off|1.0|https:
 #
