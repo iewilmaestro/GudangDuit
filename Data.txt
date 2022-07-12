@@ -21,6 +21,7 @@
 #lemeclaim:on|1.0|https:
 #litemine:on|1.0|https:
 #ltcearn:on|1.0|https:
+#payou:on|1.0|https:
 #purebtc:on|1.0|https:
 #speedcoins:on|1.0|https:
 #tokenmix:on|1.0|https:
