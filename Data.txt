@@ -9,7 +9,6 @@
 #coinfly:on|1.3|https://cararegistrasi.com/nWvVM17LL
 #claimsolana:on|1.0|https:
 #cryptofy:on|1.0|https:
-#dgbcoin:on|1.1|https://www.mediafire.com/file/22gy9tkqkgotz8o/dgbcoin.zip/file
 #earnusdt:on|1.0|https:
 #faucetpay:on|1.0|https:
 #firefaucet:on|1.2|https:
@@ -30,6 +29,7 @@
 #
 #bithub:off|1.1|https://cararegistrasi.com/62m6b
 #celomining:off|1.1|https://www.mediafire.com/file/o0bd2j44glh3zwd/celomining.zip/file
+#dgbcoin:off|1.1|https://www.mediafire.com/file/22gy9tkqkgotz8o/dgbcoin.zip/file
 #digibytemining:off|1.0|https:
 #defidoge:off|1.0|https:
 #luckytron:off|1.0|https:
