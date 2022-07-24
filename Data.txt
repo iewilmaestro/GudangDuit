@@ -34,7 +34,7 @@
 #dgbcoin:off|1.1|https://www.mediafire.com/file/22gy9tkqkgotz8o/dgbcoin.zip/file
 #digibytemining:off|1.0|https:
 #defidoge:off|1.0|https:
-#luckytron:off|1.0|https:
+#luckytron:on|1.0|https:
 #rvnmining:off|1.0|https:
 #ziifaucet:off|1.0|https:
 #
