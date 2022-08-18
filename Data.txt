@@ -8,7 +8,6 @@
 #coinfly:on|1.3|https://cararegistrasi.com/nWvVM17LL
 #cryptoclaim:on|1.0|https:
 #cryptofy:on|1.0|https:
-#earnusdt:on|1.0|https:
 #faucetpay:on|1.0|https:
 #firefaucet:on|1.2|https:
 #freedgb:on|1.0|https:
@@ -34,6 +33,7 @@
 #digibytemining:off|1.0|https:
 #dinntoks:off|1.2|https:
 #defidoge:off|1.0|https:
+#earnusdt:off|1.0|https:
 #freecoin:off|1.1|https://www.mediafire.com/file/ztpq265iyb5xro3/freecoin.zip/file
 #rvnmining:off|1.0|https:
 #ziifaucet:off|1.0|https:
