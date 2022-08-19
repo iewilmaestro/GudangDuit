@@ -1,4 +1,3 @@
-#1xbitcoins:on|1.0|https:
 #autobitco:on|1.0|https:
 #autoclaim:on|1.0|https:
 #autofaucet:on|1.2|https:
@@ -24,6 +23,7 @@
 #watcherviews:on|1.1|https://www.mediafire.com/file/69u1o1jcx6sh8gi/watchviews.zip/file
 #trxsatoshi:on|1.0|https:
 #
+#1xbitcoins:off|1.0|https:
 #adsfamily:off|1.0|https:
 #amdash:off|1.0|https:
 #bithub:off|1.1|https://cararegistrasi.com/62m6b
