@@ -1,5 +1,5 @@
 #autobitco:on|1.0|https:
-#autoclaim:on|1.1|https:
+#autoclaim:on|1.0|https:
 #autofaucet:on|1.1|https:
 #adbch:on|1.0|https:
 #bestautofaucet:on|1.5|https:
