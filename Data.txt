@@ -14,10 +14,7 @@
 #kiddyearner:on|1.1|https:
 #lemeclaim:on|1.0|https:
 #litemine:on|1.0|https:
-#ltcearn:on|1.0|https:
 #luckytron:on|1.0|https:
-#payou:on|1.0|https:
-#purebtc:on|1.0|https:
 #speedcoins:on|1.0|https:
 #tokenmix:on|1.0|https:
 #watcherviews:on|1.1|https://www.mediafire.com/file/69u1o1jcx6sh8gi/watchviews.zip/file
@@ -35,6 +32,9 @@
 #defidoge:off|1.0|https:
 #earnusdt:off|1.0|https:
 #freecoin:off|1.1|https://www.mediafire.com/file/ztpq265iyb5xro3/freecoin.zip/file
+#ltcearn:off|1.0|https:
+#payou:off|1.0|https:
+#purebtc:off|1.0|https:
 #rvnmining:off|1.0|https:
 #ziifaucet:off|1.0|https:
 #
