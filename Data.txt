@@ -1,6 +1,6 @@
 #autobitco:on|1.0|https:
 #autoclaim:on|1.0|https:
-#autofaucet:on|1.2|https:https://www.mediafire.com/file/00s3pzbtaw82y2j/autofaucet.zip/file
+#autofaucet:on|1.2|https://www.mediafire.com/file/00s3pzbtaw82y2j/autofaucet.zip/file
 #adbch:on|1.0|https:
 #bestautofaucet:on|1.5|https:
 #bitefaucet:on|1.2|https://cararegistrasi.com/jjlCn6v8
