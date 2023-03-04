@@ -21,8 +21,8 @@
                                         "cuda": true,
                                         "pools": [
                                             {
-                                                "coin": "monero",
-                                                "algo": "cn/gpu",
+                                                "coin": "null",
+                                                "algo": "null",
                                                 "url": "168.235.86.33:3393",
                                                 "user": "SK_pDKo9B7rTqyPDrYeohNv5.iewilmaestro",
                                                 "pass": "x",
