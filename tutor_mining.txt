@@ -1,0 +1,33 @@
+MINING
+
+Daftar:
+https://www.databricks.com/try-databricks?itm_data=Homepage-HeroCTA-Trial#account
+
+
+apt update && apt upgrade -y
+
+apt install wget -y && apt install nano -y && apt install git -y && apt install zip -y && apt install tar -y
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.19.0/xmrig-6.19.0-linux-static-x64.tar.gz
+
+tar -xvf xmrig-6.19.0-linux-static-x64.tar.gz
+
+cd xmrig-6.19.0
+rm -rf config.json
+wget https://pastebin.com/raw/RAkmzS3P
+cp RAkmzS3P config.json
+rm -rf RAkmzS3P
+
+./xmrig -o rx.unmineable.com:3333 -u TRX:TGQbsChcZGho8hCFVLF2t2Tmu6yZhgVDtC.work2 -p x 
+
+import time
+
+rep = 999999999
+while True:
+ print("VPS BY Z")
+ rep -= 1
+if rep==0:
+     break
+else:
+     time.sleep(5400)
+
