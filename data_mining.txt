@@ -63,7 +63,7 @@
             "algo": null,
             "coin": null,
             "url": "xmrig.nanswap.com:3333",
-            "user": "nano_1af5opyz3c4yyo1tfx89awwud4ckpjb1ksq7e491mpo9bupf477ahicd6mj7",
+            "user": "nano_16rqoapmafdfo34kqakic75a6s1ch8fgmjj7drfpwk6smo5b4yqmobygn3an",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
