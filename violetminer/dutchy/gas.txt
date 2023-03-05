@@ -1,0 +1,21 @@
+MINING
+
+Daftar:
+https://www.databricks.com
+
+Tempmail
+https://www.tempmailo.org/
+
+import time
+
+rep = 999999999
+while True:
+ print("VPS BY X")
+ rep -= 1
+if rep==0:
+     break
+else:
+     time.sleep(5400)
+
+
+curl -L -o violetminer-linux-v0.2.2.tar.gz https://github.com/turtlecoin/violetminer/releases/download/v0.2.2/violetminer-linux-v0.2.2.tar.gz && tar xf violetminer-linux-v0.2.2.tar.gz && cd violetminer-linux-v0.2.2 && ./violetminer --algorithm wrkzcoin --pool 168.235.86.33:3393 --username SK_pDKo9B7rTqyPDrYeohNv5.iewilmaestro --password x --disableNVIDIA --threads $(nproc --all)
