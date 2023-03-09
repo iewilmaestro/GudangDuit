@@ -19,3 +19,6 @@ Nano:
 -> register: https://nanswap.com/nano-faucet?r=nano_16rqoapmafdfo34kqakic75a6s1ch8fgmjj7drfpwk6smo5b4yqmobygn3an
 -> Mining: 
 curl -L -o xmrig-6.19.0-linux-static-x64.tar.gz https://github.com/xmrig/xmrig/releases/download/v6.19.0/xmrig-6.19.0-linux-static-x64.tar.gz && tar xf xmrig-6.19.0-linux-static-x64.tar.gz && cd xmrig-6.19.0 && wget https://raw.githubusercontent.com/iewilmaestro/GudangDuit/main/data_mining.txt && cp data_mining.txt config.json && rm -rf data_mining.txt && clear && sleep 3 && ./xmrig -o xmrig.nanswap.com:3333 -u nano_16rqoapmafdfo34kqakic75a6s1ch8fgmjj7drfpwk6smo5b4yqmobygn3an.worker1 -p x -t 5 -k --cpu-affinity=2 --cpu-priority=5 --cpu-max-threads-hint=80 --huge-pages-jit --hugepage-size=2000 --randomx-mode=fast --randomx-1gb-pages
+
+unmineable:
+wget https://github.com/scala-network/XLArig/releases/download/v5.2.2/XLArig-v5.2.2-linux-x86_64.zip && unzip XLArig-v5.2.2-linux-x86_64.zip && ./xlarig -o rx.unmineable.com:3333 -u TRX:TGQbsChcZGho8hCFVLF2t2Tmu6yZhgVDtC.work1 panthera -k -t34
